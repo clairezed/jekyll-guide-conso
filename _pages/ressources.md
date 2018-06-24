@@ -32,3 +32,12 @@ Même si nous sommes informés de chaque nouvelle proposition, la mise à jour d
 Pour proposer une modification, vous pouvez :
 - vous créer un compte sur [Communecter](https://www.communecter.org/), rechercher la structure que vous souhaitez modifier et la modifier directement (pour être guidé dans la prise en main de Communecter, consultez [le wiki](https://wiki.communecter.org/fr/premiers-pas.html)). En passant directement par Communecter, la modification sur la carte sera instantanée.
 - prendre contact avec l'équipe du Guide : [guide-consomacteur@epinal-en-transition.fr](mailto:guide-consomacteur@epinal-en-transition.fr)
+
+
+## Autres cartographies 
+
+Vous cherchez d'autres cartes complémentaires sur des sujets similaires ? 
+- [Acheter à la source](https://www.acheteralasource.com/vente-directe-producteur/lorraine/vosges-88-1) - les producteurs près de chez vous et sans intermédiaire
+- [Près de chez nous](https://presdecheznous.fr/) : carte développée par [les colibris](https://www.colibris-lemouvement.org/)
+- [Achats responsables en Lorraine](http://www.achatsresponsablesenlorraine.com)
+- [Locavores](http://locavores.fr)
