@@ -1,15 +1,15 @@
 # Site settings -----------------------------------
-title: Starter
-email: clairezuliani@gmail.com
-description: My own jekyll starter
+title: Guide du consom'acteur - Epinal
+email: guide-consomacteur@epinal-en-transition.fr
+description: Le guide du consom’acteur a pour ambition de favoriser les démarches de type circuits courts, bio, agroécologie, recyclage ou encore réparation, autour d'Epinal.
 # baseurl: "/jekyll-starter" # the subpath of your site, e.g. /blog
 # url: "https://clairezed.github.io" # the base hostname & protocol for your site
-url: "https://clairezed-jekyll-starter.netlify.com" # the base hostname & protocol for your site
+url: "https://guide-consomacteur-epinal.netlify.com" # the base hostname & protocol for your site
 
 
 # Social settings ------------------------------------
-github_username: clairezed
-twitter_username: ZooletteDesBois
+# github_username: clairezed
+# twitter_username: ZooletteDesBois
 
 # Build settings --------------------------------------
 markdown: kramdown
